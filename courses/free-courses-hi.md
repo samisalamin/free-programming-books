@@ -31,6 +31,7 @@
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
+* [Internet of Things](#internet-of-things)
 * [iOS](#ios)
 * [Java](#java)
     * [Spring Boot](#spring-boot)
@@ -59,7 +60,8 @@
     * [Django](#django)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
-* [R](#r)
+* [R](#r)    
+* [Raspberry Pi](#raspberry-pi)    
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
@@ -260,6 +262,12 @@
 * [Computer Graphics Full Course in Hindi](https://www.youtube.com/playlist?list=PLAC6WcHCOQCHVfV3vR4At0g0QADIeZc_j) - Edulogy
 
 
+### Computer Networks
+
+* [Computer Networks : Computer Science and IT \| GATE free Crash Course](https://youtube.com/playlist?list=PL3eEXnCBViH-hlNCNwdfV7VrEcTquANGa&si=T__auWK-bynzBzs6) - GATE Wallah 
+* [Computer Networks (Complete Playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=oZks6VlViqpdJUPt) - Gate Smashers
+
+
 ### Computer Organization and Architecture
 
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
@@ -271,6 +279,7 @@
 
 * [Data Analyst Course - Beginner's to Advance (हिंदी में) - Full Playlist](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET: Industries Helping Hands Dot Com
 * [Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
+* [Playlist for Applied Data Science ](https://youtube.com/playlist?list=PLPIwNooIb9vgY2qXajjt6_9RQ3Y9DyPTW&si=0IcMY1zC8ZG8Odoj) - Perfect Computer Engineer
 
 
 ### Data Structures
@@ -412,6 +421,12 @@
 * [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
 * [Tailwind CSS In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
 * [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
+
+
+### Internet of Things
+
+* [Internet of things tutorial | IOT Playlist| University Exam specific](https://youtube.com/playlist?list=PLuAADu3OvBt4SUxlYPu_xJogSmVfSLZF0&si=UbXLoMunJGnG7EMZ) - Er Sahil ka Gyan
+* [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
 
 
 ### iOS
@@ -710,6 +725,12 @@
 * [R Tutorial for Beginners](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48) - 5 Minutes Engineering
 
 
+### Raspberrypi
+
+* [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
+* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
+
+
 ### Ruby
 
 * [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
@@ -732,6 +753,7 @@
 ### Security
 
 * [Complete Ethical Hacking Tutorial for Beginners to Pro 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R) - WsCube Tech
+* [Cryptography and network security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=IEisqG00PRd40nWo) - Abhishek Sharma
 * [Cryptography and Network Security Lecture in Hindi / Urdu for Beginners](https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe) - Katoon Studio
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
 * [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
@@ -745,6 +767,7 @@
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
 * [Software Engineering](https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr) - Knowledge Gate
 * [Software Engineering Lectures](https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
+*[Software Engineering](https://youtube.com/playlist?list=PLPIwNooIb9vgYGBaBDqufEfJC99oD3juf) - Perfect Computer Engineer
 
 
 ### Solidity
